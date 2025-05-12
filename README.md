@@ -11,13 +11,15 @@ Thanks for checking out our shared code and learn plans!
 AI, Copilot & Agents focuses on the latest in AI services, LLMs, experiences and how AI is driving the agentic world as we know it.
 
 ### AI, Copilot & Agent Shared Code
-- #### BRK148
 - #### BRK154
 - #### LAB324
-- #### LAB329
-- #### LAB331
-- #### LAB333
-- #### LAB334
+
+- [BRK148 - Building the digital workforce: Multi-agent apps with Azure AI Foundry](https://aka.ms/build25/github/BRK148)
+- [LAB331 - Deep Research with Langchain and DeepSeek R1](https://aka.ms/build25/github/LAB331)
+- [LAB334 - Evaluate and improve the quality and safety of your AI applications](https://aka.ms/build25/github/LAB334)
+- [LAB333 - Evaluate Reasoning Models for Your Generative AI Solutions](https://aka.ms/build25/github/LAB333)
+- [LAB329 - Fine-Tune End-to-End Distillation Models with Azure OpenAI Service and Azure AI Foundry](https://aka.ms/build25/github/LAB329)
+
  
 ### AI, Copilot & Agent Learn Plans and Collections
 
@@ -42,8 +44,9 @@ AI, Copilot & Agents focuses on the latest in AI services, LLMs, experiences and
 Developer Tools & .NET focuses on modern development practices, addressing best practices and tools for building scalable applications. It emphasizes improving developer workflows and productivity through innovative tooling and integration.
 
 ### Developer Tools & .NET Shared Code
-- ####
-- ####
+- [LAB304 - Real-World, Enterprise-Scale End-to-End Testing with Playwright](https://aka.ms/build25/github/LAB304)
+- [LAB309 - Integrating AI in Apps with GitHub Copilot & Azure Developer CLI](https://aka.ms/build25/github/LAB309)
+
 
 ## Developer Tools & .NET Learn Plans and Collections
 
@@ -58,9 +61,9 @@ Developer Tools & .NET focuses on modern development practices, addressing best 
 Cloud Platform focuses on the building blocks of AI applications from the hardware and infrastructure that power the next generation of agentic services to the core components of building intelligent applications at scale.
 
 ### Cloud Platform Code Shared Code
+
 - ####
-- ####
-- 
+
 
 ### Cloud Platform Code Learn Plans and Collections
 
@@ -76,14 +79,15 @@ Cloud Platform focuses on the building blocks of AI applications from the hardwa
 Data & Analytics delivers content on empowering your AI transformation with a powerful, all-in-one unified data platform, and operational databases built to deliver the scale and performance developers need for AI apps.
 
 ### Data & Analytics Shared Code
+
 - ####
 - ####
-- 
+
 
 ### Data & Analytics Learn Plans and Collections
 
-- [Elevate your Microsoft Fabric data engineering skills: Prepare for DP-700 Exam](https://aka.ms/build25/plan/- MicrosoftFabricDataEngineeringPlan)
-- [Enhance your Microsoft Fabric analytics engineering skills: Prepare for DP-600 Exam](https://aka.ms/build25/plan/- DP-600_FabricDataAnalyticsPlan)
+- [Elevate your Microsoft Fabric data engineering skills: Prepare for DP-700 Exam](https://aka.ms/build25/plan/MicrosoftFabricDataEngineeringPlan)
+- [Enhance your Microsoft Fabric analytics engineering skills: Prepare for DP-600 Exam](https://aka.ms/build25/plan/DP-600_FabricDataAnalyticsPlan)
 - [Make your data AI ready with Microsoft Fabric](https://aka.ms/build25/plan/DataAIreadyFabric)
 - [Transform data for AI solutions with Azure Databricks](https://aka.ms/build25/plan/AzureDatabricks_UYDforAI)
 - [Build AI apps with Azure Services and best practices](https://aka.ms/build25/plan/ADAI_DevStartPlan)
@@ -97,7 +101,12 @@ Data & Analytics delivers content on empowering your AI transformation with a po
 ### Security Shared Code
 
 - #### BRK234
-- #### LAB352
+- #### BRK231
+
+- [DEM552 - Accelerate AI red teaming for your GenAI apps](https://aka.ms/build25/github/DEM552)
+- [LAB350 - Creating pixel-perfect mobile apps with Native Authentication](https://aka.ms/build25/github/LAB350)
+- [LAB352 - AI security testing with PyRIT](https://aka.ms/build25/github/LAB352)
+
 
 ### Security Learn Plans and Collections
 
@@ -113,9 +122,7 @@ Data & Analytics delivers content on empowering your AI transformation with a po
 ### Windows Shared Code
 
 - #### LAB370
-    - Code Repo
-    - Learn Plan
-    - 
+
 ### Windows Learn Plans and Collections
 
 - [MCP on Windows and Windows App Actions](https://aka.ms/build25/collection/MCPonWindows)
