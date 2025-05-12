@@ -4,7 +4,7 @@
 
 # Microsoft Build 2025
 
-Thanks for checking out our shared code and learn plans!
+The post-event Developer Actions for Microsoft Build participants are available from this repository. This includes repositories organized by Build session, as well as Microsoft Learn content featured in Collections and Plans for continued learning in your own environment. For beginners and experts, you can enhance your skill-building and stay engaged. Dive into the resources to further your knowledge and apply what you've learned in practical scenarios.
 
 ## AI, Copilot & Agents
 
@@ -33,11 +33,6 @@ AI, Copilot & Agents focuses on the latest in AI services, LLMs, experiences and
 - [Build AI apps with Azure Services and best practices](https://aka.ms/build25/plan/ADAI_DevStartPlan)
 - [Develop, replatform, and improve AI apps with advanced Azure AI services](https://aka.ms/build25/plan/ADAI_DevsAdvPlan)
 - [Modernize apps for AI-readiness with Azure apps platform and data solutions](https://aka.ms/build25/plan/AAI_TDMApps_Plan)
-- [Develop, replatform, and improve AI apps with advanced Azure AI services](https://aka.ms/build25/github/LAB334)
-- [Practical Foundation for AI Agents: A Developer's Guide to Azure AI Foundry, Apps, and Data](https://aka.ms/build25/github/LAB333)
-- [Create agentic AI solutions by using Azure AI Foundry](https://aka.ms/build25/github/LAB329)
-- [Find the best model for your generative AI solution with Azure AI Foundry](https://aka.ms/build25/github/LAB324)
-- [Practical Foundation for AI Agents: A Developer's Guide to Azure AI Foundry, Apps, and Data](https://aka.ms/build25/github/BRK154)
 
 
 ## Developer Tools & .NET
