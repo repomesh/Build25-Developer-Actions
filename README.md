@@ -11,16 +11,15 @@ The post-event Developer Actions for Microsoft Build participants are available 
 AI, Copilot & Agents focuses on the latest in AI services, LLMs, experiences and how AI is driving the agentic world as we know it.
 
 ### AI, Copilot & Agent Shared Code
-- #### BRK154
-- #### LAB324
 
 - [BRK148 - Building the digital workforce: Multi-agent apps with Azure AI Foundry](https://aka.ms/build25/github/BRK148)
-- [LAB331 - Deep Research with Langchain and DeepSeek R1](https://aka.ms/build25/github/LAB331)
-- [LAB334 - Evaluate and improve the quality and safety of your AI applications](https://aka.ms/build25/github/LAB334)
-- [LAB333 - Evaluate Reasoning Models for Your Generative AI Solutions](https://aka.ms/build25/github/LAB333)
+- [BRK154 - Developer essentials for agents and apps in Azure AI Foundry](https://aka.ms/build25/github/BRK154)
+- [LAB324 - Interacting with Multimodal Models and Agents in Azure AI Foundry](https://aka.ms/build25/github/LAB324)
 - [LAB329 - Fine-Tune End-to-End Distillation Models with Azure OpenAI Service and Azure AI Foundry](https://aka.ms/build25/github/LAB329)
+- [LAB331 - Deep Research with Langchain and DeepSeek R1](https://aka.ms/build25/github/LAB331)
+- [LAB333 - Evaluate Reasoning Models for Your Generative AI Solutions](https://aka.ms/build25/github/LAB333)
+- [LAB334 - Evaluate and improve the quality and safety of your AI applications](https://aka.ms/build25/github/LAB334)
 
- 
 ### AI, Copilot & Agent Learn Plans and Collections
 
 - [Unlocking business potential with AI solutions](https://aka.ms/build25/plan/StartTransformingBizAI)
@@ -36,9 +35,11 @@ AI, Copilot & Agents focuses on the latest in AI services, LLMs, experiences and
 
 
 ## Developer Tools & .NET
+
 Developer Tools & .NET focuses on modern development practices, addressing best practices and tools for building scalable applications. It emphasizes improving developer workflows and productivity through innovative tooling and integration.
 
 ### Developer Tools & .NET Shared Code
+
 - [LAB304 - Real-World, Enterprise-Scale End-to-End Testing with Playwright](https://aka.ms/build25/github/LAB304)
 - [LAB309 - Integrating AI in Apps with GitHub Copilot & Azure Developer CLI](https://aka.ms/build25/github/LAB309)
 
@@ -95,9 +96,8 @@ Data & Analytics delivers content on empowering your AI transformation with a po
 
 ### Security Shared Code
 
-- #### BRK234
-- #### BRK231
-
+- [BRK231 - Building Secure AI Agents with Microsoft Entra ID](https://aka.ms/build25/github/BRK231)
+- [BRK234 - Deploying an end-to-end secure AI application](https://aka.ms/build25/github/BRK234)
 - [DEM552 - Accelerate AI red teaming for your GenAI apps](https://aka.ms/build25/github/DEM552)
 - [LAB350 - Creating pixel-perfect mobile apps with Native Authentication](https://aka.ms/build25/github/LAB350)
 - [LAB352 - AI security testing with PyRIT](https://aka.ms/build25/github/LAB352)
@@ -105,7 +105,7 @@ Data & Analytics delivers content on empowering your AI transformation with a po
 
 ### Security Learn Plans and Collections
 
-- [Building Secure Business Applications: Best Practices from Design to Deployment](https://aka.ms/build25/github/BRK233)
+- [Building Secure Business Applications: Best Practices from Design to Deployment](https://aka.ms/build25/collection/BuildSecureApplications)
 - [Fortifying AI Frontiers: Securing APIs on the path to your AI app](https://aka.ms/build25/collection/FortifyingAIFrontiers)
 - [Secure onboarding and access with the Microsoft Entra Suite](https://aka.ms/build25/collection/SecureAccesswithEntraSuite)
 - [Securing Applications with Microsoft Entra ID](https://aka.ms/build25/collection/SecureApplicationswithEntraID)
@@ -116,7 +116,7 @@ Data & Analytics delivers content on empowering your AI transformation with a po
 
 ### Windows Shared Code
 
-- #### LAB370
+- [LAB370 - Come build actions for your Windows Apps](https://aka.ms/build25/github/LAB370)
 
 ### Windows Learn Plans and Collections
 
