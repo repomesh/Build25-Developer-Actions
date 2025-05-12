@@ -10,7 +10,7 @@ The post-event Developer Actions for Microsoft Build participants are available 
 
 AI, Copilot & Agents focuses on the latest in AI services, LLMs, experiences and how AI is driving the agentic world as we know it.
 
-### AI, Copilot & Agent Shared Code
+### AI, Copilot & Agent Shared Repository
 
 - [BRK148 - Building the digital workforce: Multi-agent apps with Azure AI Foundry](https://aka.ms/build25/github/BRK148)
 - [BRK154 - Developer essentials for agents and apps in Azure AI Foundry](https://aka.ms/build25/github/BRK154)
@@ -38,7 +38,7 @@ AI, Copilot & Agents focuses on the latest in AI services, LLMs, experiences and
 
 Developer Tools & .NET focuses on modern development practices, addressing best practices and tools for building scalable applications. It emphasizes improving developer workflows and productivity through innovative tooling and integration.
 
-### Developer Tools & .NET Shared Code
+### Developer Tools & .NET Shared Repository
 
 - [LAB304 - Real-World, Enterprise-Scale End-to-End Testing with Playwright](https://aka.ms/build25/github/LAB304)
 - [LAB309 - Integrating AI in Apps with GitHub Copilot & Azure Developer CLI](https://aka.ms/build25/github/LAB309)
@@ -56,7 +56,7 @@ Developer Tools & .NET focuses on modern development practices, addressing best 
 ## Cloud Platform
 Cloud Platform focuses on the building blocks of AI applications from the hardware and infrastructure that power the next generation of agentic services to the core components of building intelligent applications at scale.
 
-### Cloud Platform Code Shared Code
+### Cloud Platform Code Shared Repository
 
 - ####
 
@@ -74,7 +74,7 @@ Cloud Platform focuses on the building blocks of AI applications from the hardwa
 ## Data & Analytics
 Data & Analytics delivers content on empowering your AI transformation with a powerful, all-in-one unified data platform, and operational databases built to deliver the scale and performance developers need for AI apps.
 
-### Data & Analytics Shared Code
+### Data & Analytics Shared Repository
 
 - ####
 - ####
@@ -90,11 +90,11 @@ Data & Analytics delivers content on empowering your AI transformation with a po
 - [Develop, replatform, and improve AI apps with advanced Azure AI services](https://aka.ms/build25/plan/ADAI_DevsAdvPlan)
 - [Modernize apps for AI-readiness with Azure apps platform and data solutions](https://aka.ms/build25/plan/AAI_TDMApps_Plan)
 
-## Security Shared Code
+## Security Shared Repository
 
 **Security** is intended for those interested in designing, implementing, or securing applications and infrastructure.
 
-### Security Shared Code
+### Security Shared Repository
 
 - [BRK231 - Building Secure AI Agents with Microsoft Entra ID](https://aka.ms/build25/github/BRK231)
 - [BRK234 - Deploying an end-to-end secure AI application](https://aka.ms/build25/github/BRK234)
@@ -114,7 +114,7 @@ Data & Analytics delivers content on empowering your AI transformation with a po
 
 **Windows** is focused on building for the Windows ecosystem and Copilot PCs.
 
-### Windows Shared Code
+### Windows Shared Repository
 
 - [LAB370 - Come build actions for your Windows Apps](https://aka.ms/build25/github/LAB370)
 
