@@ -56,11 +56,6 @@ Developer Tools & .NET focuses on modern development practices, addressing best 
 ## Cloud Platform
 Cloud Platform focuses on the building blocks of AI applications from the hardware and infrastructure that power the next generation of agentic services to the core components of building intelligent applications at scale.
 
-### Cloud Platform Code Shared Repository
-
-- ####
-
-
 ### Cloud Platform Code Learn Plans and Collections
 
 - [From Kubernetes to Enterprise-Grade AKS: A Practitioner's Guidebook](https://aka.ms/build25/plan/KubeCon_Learning)
@@ -73,12 +68,6 @@ Cloud Platform focuses on the building blocks of AI applications from the hardwa
 
 ## Data & Analytics
 Data & Analytics delivers content on empowering your AI transformation with a powerful, all-in-one unified data platform, and operational databases built to deliver the scale and performance developers need for AI apps.
-
-### Data & Analytics Shared Repository
-
-- ####
-- ####
-
 
 ### Data & Analytics Learn Plans and Collections
 
