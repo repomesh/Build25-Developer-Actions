@@ -41,7 +41,7 @@ Developer Tools & .NET focuses on modern development practices, addressing best 
 - [LAB304 - Real-World, Enterprise-Scale End-to-End Testing with Playwright](https://aka.ms/build25/github/LAB304)
 - [LAB309 - Integrating AI in Apps with GitHub Copilot & Azure Developer CLI](https://aka.ms/build25/github/LAB309)
 
-## Developer Tools & .NET Learn Plans and Collections
+### Developer Tools & .NET Learn Plans and Collections
 
 - [From Enthusiasts to Enterprise Java: Practitioners’ Guide](https://aka.ms/build25/plan/LearnJavaSkilling)
 - [Get Certified! Become an Azure AI Engineer (Exam AI-102)](https://aka.ms/build25/plan/AzureAIEngineerCertification)
