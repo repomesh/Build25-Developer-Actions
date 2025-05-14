@@ -10,10 +10,8 @@ The post-event Developer Actions for Microsoft Build participants are available 
 
 AI, Copilot & Agents focuses on the latest in AI services, LLMs, experiences and how AI is driving the agentic world as we know it.
 
-### AI, Copilot & Agent Shared Repository
+### AI, Copilot & Agent Repositories
 
-- [BRK148 - Building the digital workforce: Multi-agent apps with Azure AI Foundry](https://aka.ms/build25/github/BRK148)
-- [BRK154 - Developer essentials for agents and apps in Azure AI Foundry](https://aka.ms/build25/github/BRK154)
 - [LAB324 - Interacting with Multimodal Models and Agents in Azure AI Foundry](https://aka.ms/build25/github/LAB324)
 - [LAB329 - Fine-Tune End-to-End Distillation Models with Azure OpenAI Service and Azure AI Foundry](https://aka.ms/build25/github/LAB329)
 - [LAB331 - Deep Research with Langchain and DeepSeek R1](https://aka.ms/build25/github/LAB331)
@@ -38,11 +36,10 @@ AI, Copilot & Agents focuses on the latest in AI services, LLMs, experiences and
 
 Developer Tools & .NET focuses on modern development practices, addressing best practices and tools for building scalable applications. It emphasizes improving developer workflows and productivity through innovative tooling and integration.
 
-### Developer Tools & .NET Shared Repository
+### Developer Tools & .NET Repositories
 
 - [LAB304 - Real-World, Enterprise-Scale End-to-End Testing with Playwright](https://aka.ms/build25/github/LAB304)
 - [LAB309 - Integrating AI in Apps with GitHub Copilot & Azure Developer CLI](https://aka.ms/build25/github/LAB309)
-
 
 ## Developer Tools & .NET Learn Plans and Collections
 
@@ -79,17 +76,14 @@ Data & Analytics delivers content on empowering your AI transformation with a po
 - [Develop, replatform, and improve AI apps with advanced Azure AI services](https://aka.ms/build25/plan/ADAI_DevsAdvPlan)
 - [Modernize apps for AI-readiness with Azure apps platform and data solutions](https://aka.ms/build25/plan/AAI_TDMApps_Plan)
 
-## Security Shared Repository
+## Security
 
 **Security** is intended for those interested in designing, implementing, or securing applications and infrastructure.
 
-### Security Shared Repository
+### Security Repositories
 
-- [BRK231 - Building Secure AI Agents with Microsoft Entra ID](https://aka.ms/build25/github/BRK231)
-- [BRK234 - Deploying an end-to-end secure AI application](https://aka.ms/build25/github/BRK234)
 - [DEM552 - Accelerate AI red teaming for your GenAI apps](https://aka.ms/build25/github/DEM552)
 - [LAB350 - Creating pixel-perfect mobile apps with Native Authentication](https://aka.ms/build25/github/LAB350)
-- [LAB352 - AI security testing with PyRIT](https://aka.ms/build25/github/LAB352)
 
 
 ### Security Learn Plans and Collections
@@ -102,10 +96,6 @@ Data & Analytics delivers content on empowering your AI transformation with a po
 ## Windows
 
 **Windows** is focused on building for the Windows ecosystem and Copilot PCs.
-
-### Windows Shared Repository
-
-- [LAB370 - Come build actions for your Windows Apps](https://aka.ms/build25/github/LAB370)
 
 ### Windows Learn Plans and Collections
 
