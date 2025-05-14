@@ -26,7 +26,7 @@ AI, Copilot & Agents focuses on the latest in AI services, LLMs, experiences and
 - [Create agentic AI solutions by using Azure AI Foundry](https://aka.ms/build25/plan/CreateAgenticAISolutions)
 - [Put Microsoft 365 Copilot to work: Essentials for developers 1.0](https://aka.ms/build25/plan/CopilotforDevelopers)
 - [Find the best model for your generative AI solution with Azure AI Foundry](https://aka.ms/build25/plan/BestModelGenAISolution)
-- [Practical Foundation for AI Agents: A Developer's Guide to Azure AI Foundry, Apps, and Data](https://aka.ms/build25/plaai_agents_apps__data)
+- [Practical Foundation for AI Agents: A Developer's Guide to Azure AI Foundry, Apps, and Data](https://aka.ms/build25/plan/ai_agents_apps__data)
 - [Build AI apps with Azure Services and best practices](https://aka.ms/build25/plan/ADAI_DevStartPlan)
 - [Develop, replatform, and improve AI apps with advanced Azure AI services](https://aka.ms/build25/plan/ADAI_DevsAdvPlan)
 - [Modernize apps for AI-readiness with Azure apps platform and data solutions](https://aka.ms/build25/plan/AAI_TDMApps_Plan)
