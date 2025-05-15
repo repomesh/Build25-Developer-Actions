@@ -83,8 +83,6 @@ Data & Analytics delivers content on empowering your AI transformation with a po
 ### Security Repositories
 
 - [DEM552 - Accelerate AI red teaming for your GenAI apps](https://aka.ms/build25/github/DEM552)
-- [LAB350 - Creating pixel-perfect mobile apps with Native Authentication](https://aka.ms/build25/github/LAB350)
-
 
 ### Security Learn Plans and Collections
 
