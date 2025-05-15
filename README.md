@@ -62,6 +62,7 @@ Cloud Platform focuses on the building blocks of AI applications from the hardwa
 - [Build AI apps with Azure Services and best practices](https://aka.ms/build25/plan/ADAI_DevStartPlan)
 - [Develop, replatform, and improve AI apps with advanced Azure AI services](https://aka.ms/build25/plan/ADAI_DevsAdvPlan)
 - [Modernize apps for AI-readiness with Azure apps platform and data solutions](https://aka.ms/build25/plan/AAI_TDMApps_Plan)
+- [The adaptive cloud approach with Azure](https://aka.ms/build25/collection/AdaptiveCloudwithAzure)
 
 ## Data & Analytics
 Data & Analytics delivers content on empowering your AI transformation with a powerful, all-in-one unified data platform, and operational databases built to deliver the scale and performance developers need for AI apps.
