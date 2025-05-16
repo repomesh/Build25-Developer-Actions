@@ -13,7 +13,7 @@ AI, Copilot & Agents focuses on the latest in AI services, LLMs, experiences and
 ### AI, Copilot & Agent Repositories
 
 - [LAB324 - Interacting with Multimodal Models and Agents in Azure AI Foundry](https://aka.ms/build25/github/LAB324)
-- [LAB325 - Build your code-first agent with Azure AI Foundry](https://aka.ms/build25/github/LAB325)
+- [LAB325 - Build your code-first agent with Azure AI Foundry in Python](https://aka.ms/build25/github/LAB325)
 - [LAB328 - Build custom engine agents using Microsoft 365 Agents SDK](https://aka.ms/build25/github/LAB328)
 - [LAB329 - Fine-Tune End-to-End Distillation Models with Azure OpenAI Service and Azure AI Foundry](https://aka.ms/build25/github/LAB329)
 - [LAB331 - Deep Research with Langchain and DeepSeek R1](https://aka.ms/build25/github/LAB331)
@@ -65,11 +65,11 @@ Cloud Platform focuses on the building blocks of AI applications from the hardwa
 
 ### Cloud Platform Repositories
 
-- [LAB340 - AI Gateway Labs with Azure API Management](https://aka.ms/build25/github/LAB340)
+- [LAB340 - Accelerate AI App Development with AI Gateway Capabilities in Azure API Management](https://aka.ms/build25/github/LAB340)
 - [LAB344 - Build and deploy AI agents with MCP and Azure Functions](https://aka.ms/build25/github/LAB344)
-- [LAB346 - AKS Capture the Flag](https://aka.ms/build25/github/LAB346)
+- [LAB346 - Ethical Hacking with AKS: Hands-On Attack and Defense Strategies](https://aka.ms/build25/github/LAB346)
 - [LAB347 - Add AI experiences to existing .NET apps using Sidecar in App Service](https://aka.ms/build25/github/LAB347)
-- [LAB348 - gMSA on Azure Kubernetes Service](https://aka.ms/build25/github/LAB348)
+- [LAB348 - Integrate Azure Kubernetes Service apps with Active Directory](https://aka.ms/build25/github/LAB348)
 
 ### Cloud Platform Code Learn Plans and Collections
 
@@ -87,7 +87,7 @@ Data & Analytics delivers content on empowering your AI transformation with a po
 
 ### Data & Analytics Repositories
 
-- [LAB361 - Build a Multi-Agent AI application using Semantic Kernel Agents or LangGraph](https://aka.ms/build25/github/LAB361)
+- [LAB361 - Multi-agent apps with Semantic Kernel or LangChain & Azure Cosmos DB](https://aka.ms/build25/github/LAB361)
 
 ### Data & Analytics Learn Plans and Collections
 
