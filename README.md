@@ -87,6 +87,7 @@ Data & Analytics delivers content on empowering your AI transformation with a po
 
 ### Data & Analytics Repositories
 
+- [LAB360 - Build an Agentic App with PostgreSQL, GraphRAG, and Semantic Kernel](https://aka.ms/build25/github/LAB360)
 - [LAB361 - Multi-agent apps with Semantic Kernel or LangChain & Azure Cosmos DB](https://aka.ms/build25/github/LAB361)
 
 ### Data & Analytics Learn Plans and Collections
@@ -123,7 +124,7 @@ Data & Analytics delivers content on empowering your AI transformation with a po
 ### Windows Repositories
 
 - [LAB371 - Infuse a Windows app with local AI features through WinAppSDK](https://aka.ms/build25/github/LAB371)
-
+- [LAB372 - Fine-tune Phi Silica with your own data using LoRA adapters](https://aka.ms/build25/github/LAB372)
 ### Windows Learn Plans and Collections
 
 - [MCP on Windows and Windows App Actions](https://aka.ms/build25/collection/MCPonWindows)
