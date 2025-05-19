@@ -105,6 +105,8 @@ Data & Analytics delivers content on empowering your AI transformation with a po
 
 ### Security Repositories
 
+- [BRK233 - Building Secure Business Apps: Best Practices for Design to Deployment](https://aka.ms/build25/github/BRK233)
+- [BRK234 - Deploying an end-to-end secure AI application](https://aka.ms/build25/github/BRK234)
 - [DEM552 - Accelerate AI red teaming for your GenAI apps](https://aka.ms/build25/github/DEM552)
 
 ### Security Learn Plans and Collections
@@ -117,6 +119,10 @@ Data & Analytics delivers content on empowering your AI transformation with a po
 ## Windows
 
 **Windows** is focused on building for the Windows ecosystem and Copilot PCs.
+
+### Windows Repositories
+
+- [LAB371 - Infuse a Windows app with local AI features through WinAppSDK](https://aka.ms/build25/github/LAB371)
 
 ### Windows Learn Plans and Collections
 
