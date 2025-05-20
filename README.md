@@ -6,6 +6,16 @@
 
 The post-event Developer Actions for Microsoft Build participants are available from this repository. This includes repositories organized by Build session, as well as Microsoft Learn content featured in Collections and Plans for continued learning in your own environment. For beginners and experts, you can enhance your skill-building and stay engaged. Dive into the resources to further your knowledge and apply what you've learned in practical scenarios.
 
+## Keynote sessions
+
+Keynote sessions at Microsoft Build showcase how Microsoft is driving innovation across its platforms—especially in AI—through major announcements, real-time demos, and insights from leaders like Satya Nadella.
+
+### Keynote Learn Plans and Collections
+
+- [KEY010 - Microsoft Build opening keynote](https://aka.ms/build25/plan/GetStartedwithCopilotStudio)
+- [KEY020 - Unpacking the tech](https://aka.ms/build25/plan/ai_agents_apps__data)
+- [KEY040 - Scott and Mark Learn to...LIVE](https://aka.ms/build25/plan/ai_agents_apps__data)
+
 ## AI, Copilot & Agents
 
 AI, Copilot & Agents focuses on the latest in AI services, LLMs, experiences and how AI is driving the agentic world as we know it.
@@ -59,6 +69,7 @@ Developer Tools & .NET focuses on modern development practices, addressing best 
 - [Develop, replatform, and improve AI apps with advanced Azure AI services](https://aka.ms/build25/plan/ADAI_DevsAdvPlan)
 - [Modernize apps for AI-readiness with Azure apps platform and data solutions](https://aka.ms/build25/plan/AAI_TDMApps_Plan)
 - [Accelerate app development by using GitHub Copilot](https://aka.ms/build25/plan/AAI_DevAppGitHubCop_Plan)
+- [Build and extend copilots with Microsoft Copilot Studio](https://aka.ms/build25/plan/GetStartedwithCopilotStudio)
 
 ## Cloud Platform
 Cloud Platform focuses on the building blocks of AI applications from the hardware and infrastructure that power the next generation of agentic services to the core components of building intelligent applications at scale.
