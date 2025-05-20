@@ -117,6 +117,7 @@ Data & Analytics delivers content on empowering your AI transformation with a po
 
 ### Security Repositories
 
+- [BRK225 - Bring your own model to Windows using Windows ML](https://aka.ms/build25/github/BRK225)
 - [BRK233 - Building Secure Business Apps: Best Practices for Design to Deployment](https://aka.ms/build25/github/BRK233)
 - [BRK234 - Deploying an end-to-end secure AI application](https://aka.ms/build25/github/BRK234)
 - [DEM552 - Accelerate AI red teaming for your GenAI apps](https://aka.ms/build25/github/DEM552)
@@ -134,8 +135,10 @@ Data & Analytics delivers content on empowering your AI transformation with a po
 
 ### Windows Repositories
 
+- [BRK231 - Building Secure AI Agents with Microsoft Entra External ID](https://aka.ms/build25/github/BRK231)
 - [LAB371 - Infuse a Windows app with local AI features through WinAppSDK](https://aka.ms/build25/github/LAB371)
 - [LAB372 - Fine-tune Phi Silica with your own data using LoRA adapters](https://aka.ms/build25/github/LAB372)
+  
 ### Windows Learn Plans and Collections
 
 - [MCP on Windows and Windows App Actions](https://aka.ms/build25/collection/MCPonWindows)
