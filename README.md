@@ -52,6 +52,7 @@ Developer Tools & .NET focuses on modern development practices, addressing best 
 ### Developer Tools & .NET Repositories
 
 - [BRK117 - Use VS Code to build AI apps and agents](https://aka.ms/build25/github/BRK117)
+- [BRK122 - The future of web development with ASP.NET Core & Blazor](https://aka.ms/build25/github/BRK122)
 - [LAB300 - Hands-on with GitHub Copilot in Visual Studio 2022](https://aka.ms/build25/github/LAB300)
 - [LAB301 - Securing your code with GitHub](https://aka.ms/build25/github/LAB301)
 - [LAB302 - Planning and tracking your work with GitHub Projects and Issues](https://aka.ms/build25/github/LAB302)
