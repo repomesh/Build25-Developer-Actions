@@ -10,6 +10,10 @@ The post-event Developer Actions for Microsoft Build participants are available 
 
 Keynote sessions at Microsoft Build showcase how Microsoft is driving innovation across its platforms—especially in AI—through major announcements, real-time demos, and insights from leaders like Satya Nadella.
 
+### Keynote Repositories
+
+- [KEY010 - Microsoft Build opening keynote](https://aka.ms/build25/github/KEY010)
+
 ### Keynote Learn Plans and Collections
 
 - [KEY010 - Microsoft Build opening keynote](https://aka.ms/build25/plan/GetStartedwithCopilotStudio)
