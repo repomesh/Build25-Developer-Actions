@@ -13,7 +13,7 @@ Keynote sessions at Microsoft Build showcase how Microsoft is driving innovation
 ### Keynote Repositories
 
 - [KEY010 - Microsoft Build opening keynote - NLWeb](https://aka.ms/build25/github/KEY010)
-- [KEY030 - The Agentic Web](https://aka.ms/build/github/KEY030)
+- [KEY030 - The Agentic Web](https://aka.ms/build25/github/KEY030)
 
 ### Keynote Learn Plans and Collections
 
