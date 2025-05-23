@@ -18,6 +18,7 @@ Keynote sessions at Microsoft Build showcase how Microsoft is driving innovation
 
 - [KEY010 - Microsoft Build opening keynote](https://aka.ms/build25/plan/GetStartedwithCopilotStudio)
 - [KEY020 - Unpacking the tech](https://aka.ms/build25/plan/ai_agents_apps__data)
+- [KEY030 - The Agentic Web](https://aka.ms/build25/plan/ai_agents_apps__data) 
 - [KEY040 - Scott and Mark Learn to...LIVE](https://aka.ms/build25/plan/ai_agents_apps__data)
 
 ## AI, Copilot & Agents
