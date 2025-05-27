@@ -28,6 +28,9 @@ AI, Copilot & Agents focuses on the latest in AI services, LLMs, experiences and
 
 ### AI, Copilot & Agent Repositories
 
+- [BRK158 - Building agents in Copilot Studio using Model Context Protocol, open standards and more](https://aka.ms/build25/github/BRK158)
+- [BRK240 - The Making of NLWeb](https://aka.ms/build25/github/BRK240) 
+- [DEM524 - The power within: Running Large Language Models on your local machine](https://aka.ms/build25/github/DEM524)
 - [LAB324 - Interacting with Multimodal Models and Agents in Azure AI Foundry](https://aka.ms/build25/github/LAB324)
 - [LAB325 - Build your code-first agent with Azure AI Foundry in Python](https://aka.ms/build25/github/LAB325)
 - [LAB328 - Build custom engine agents using Microsoft 365 Agents SDK](https://aka.ms/build25/github/LAB328)
@@ -106,6 +109,7 @@ Data & Analytics delivers content on empowering your AI transformation with a po
 
 ### Data & Analytics Repositories
 
+- [BRK205 - What's Coming in Fabric Automation and CI/CD](https://aka.ms/build25/github/BRK205)
 - [LAB360 - Build an Agentic App with PostgreSQL, GraphRAG, and Semantic Kernel](https://aka.ms/build25/github/LAB360)
 - [LAB361 - Multi-agent apps with Semantic Kernel or LangChain & Azure Cosmos DB](https://aka.ms/build25/github/LAB361)
 
