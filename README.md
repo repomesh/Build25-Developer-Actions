@@ -150,7 +150,7 @@ Data & Analytics delivers content on empowering your AI transformation with a po
 ### Windows Repositories
 
 - [BRK231 - Building Secure AI Agents with Microsoft Entra External ID](https://aka.ms/build25/github/BRK231)
-- [LAB370](https://aka.ms/build25/github/LAB370)
+- [LAB370 - Come build actions for your Windows Apps](https://aka.ms/build25/github/LAB370)
 - [LAB371 - Infuse a Windows app with local AI features through WinAppSDK](https://aka.ms/build25/github/LAB371)
 - [LAB372 - Fine-tune Phi Silica with your own data using LoRA adapters](https://aka.ms/build25/github/LAB372)
   
